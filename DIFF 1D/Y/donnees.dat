@@ -1,0 +1,13 @@
+1.0e-3          ! L (m)
+0.5e-3          ! D (m) - 
+0.0             ! C0
+1.0             ! C1
+1.0e-5             ! K (DIFFUSION NULLE !)
+0.0             ! alpha
+0.02             ! tf
+0.4            ! CFL
+0.05             ! R 
+
+10              ! Nx
+10              ! Ny
+1000            ! Nt max

@@ -1,0 +1,14 @@
+1.0e-3           ! L [m]
+0.5e-3           ! D [m]
+0.0              ! C0
+1.0              ! C1
+1.0e-5          ! K [m2/s]
+1              ! alpha [m/s]
+0.01             ! tf [s] (temps final)
+1             ! CFL (réduit pour stabilité)
+0.5              ! R (réduit pour stabilité)
+
+50              ! Nx
+50              ! Ny
+1000000        ! Nt max
+
